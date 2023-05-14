@@ -1,0 +1,146 @@
+{
+"nombre": "Nayra",
+"apellido": "Fariña",
+"puesto": "Desarrolladora Web Full Stack Jr",
+"sobre": "Me considero una persona apasionada por la tecnología y la creación de soluciones innovadoras. Mi experiencia en el desarrollo web me ha permitido adquirir habilidades técnicas en lenguajes de programación como JavaScript, Python, HTML, CSS, y frameworks como React y Node.js. Me gusta trabajar en equipo, siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades para crear proyectos de alta calidad. Además, me considero una persona creativa, proactiva y siempre dispuesta a enfrentar nuevos desafíos. Me encanta esta profesion y estoy emocionada por contribuir al éxito de futuros proyectos.",
+"mi foto":"./assets/IMG/IMG_0308.jpg",
+"redes": [
+{
+    "id": 0,
+    "icono": "fa-instagram",
+    "url": "#"
+},
+{
+    "id": 1,
+    "icono": "fa-linkedin",
+    "url": "#"
+},
+{
+    "id": 2,
+    "icono": "fa-whatsapp",
+    "url": "#"
+}
+],
+"experiencia laboral": [
+    {
+        "id": 0,
+        "nombre": "Argentina programa",
+        "descripcion": "Portfolio Personal",
+        "periodo": "2023",
+        "imagen": "./assets/IMG/captura portfolio.PNG" 
+    },
+    {
+        "id": 1,
+        "nombre": "Tienda online",
+        "descripcion": "Ledha Store",
+        "periodo" : "2021", 
+        "imagen": "./assets/IMG/ledha.jpeg"
+    }
+    
+
+    ],
+    "educacion": [
+        {
+            "id": 0,
+            "nombre": "Ciencia y analisis de datos. Coder House",
+            "descripcion": "Carrera de ciencia y analisis en datos. Power bi, My sql server.",
+            "imagen": "./assets/IMG/logocoder.pgn",
+            "periodo": "2022 - 2024"
+        },
+        {
+            "id": 1,
+            "nombre": "Argentina programa 4.0",
+            "descripcion": "Curso de desarrollo web Full Stack",
+            "imagen": "./assets/IMG/logoargprogramaedu.jpg",
+            "periodo": "2022 - 2023"
+        },
+        {
+            "id": 2,
+            "nombre": "Curso de marketing y publicidad",
+            "descripcion": "Marketing y publicidad para empresas. Facebook y google Ads",
+            "imagen": "./assets/IMG/ledha.jpeg",
+            "periodo": "2019 - 2020"
+        },
+        {
+            "id": 3,
+            "nombre": "Tienda online 2",
+            "descripcion": "Bachiller en economia y administracion",
+            "imagen": "./assets/IMG/logogrilli2.png",
+            "periodo": "2013 - 2019"
+        }
+        
+        ],
+
+
+"skills": [
+    {
+        "id": 0,
+        "nombre": "HTML",
+        "porcentaje": 90
+    },
+    {
+        "id": 0,
+        "nombre": "CSS",
+        "porcentaje": 90
+    },
+    {
+        "id": 0,
+        "nombre": "Javascript",
+        "porcentaje": 75
+    },
+    {
+        "id": 0,
+        "nombre": "Typescript",
+        "porcentaje": 80
+    },
+    {
+        "id": 0,
+        "nombre": "Angular",
+        "porcentaje": 75
+    },
+    {
+        "id": 0,
+        "nombre": "Habilidades blandas - Trabajo en equipo",
+        "porcentaje": 90
+    },
+    {
+        "id": 0,
+        "nombre": "Habilidades blandas - Multitasking",
+        "porcentaje": 90
+    },
+    {
+        "id": 0,
+        "nombre": "Habilidades blandas - Liderazgo",
+        "porcentaje": 80
+    },
+    {
+        "id": 0,
+        "nombre": "Habilidades blandas - Comunicacion",
+        "porcentaje": 80
+    }
+    ],
+    "proyectos": [
+        {
+            "id": 0,
+            "nombre": "Argentina programa",
+            "descripcion": "Portfolio Personal 2023",
+            "imagen": "./assets/IMG/captura portfolio.PNG",
+            "url": "#"
+        },
+        {
+            "id": 1,
+            "nombre": "Tienda online",
+            "descripcion": "Ledha Store 2021",
+            "imagen": "./assets/IMG/ledha.jpeg",
+            "url": "#"
+        },
+        {
+            "id": 2,
+            "nombre": "Tienda online 2",
+            "descripcion": "Athenea bags 2023",
+            "imagen": "./assets/IMG/athenea.jpeg",
+            "url": "#"
+        }
+        
+        ]
+}

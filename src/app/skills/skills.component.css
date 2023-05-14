@@ -1,0 +1,207 @@
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+    i.fa.brands.fa-whatsapp.fa-xl:hover{
+        color: rgb(78, 214, 60);
+    }
+    i.fa.brands.fa-instagram.fa-xl:hover{
+        color: rgb(212, 51, 78);
+    }
+    i.fa.brands.fa-linkedin.fa-xl:hover{
+        color: rgb(76, 123, 226);
+    }
+    i.fa.solid.fa-user.fa-xl:hover {
+  color: rgb(205, 231, 55);
+    }
+    i.fa.solid.fa-user-lock.fa-xl:hover {
+        color: rgb(205, 231, 55);
+            }
+    .list-group {
+    --bs-list-group-bg: transparent;
+    }
+    section.about{
+        margin-top: 5rem;
+  
+    }
+    
+    section.exp{
+        margin-top: 5rem;
+    }
+  
+    section.skills{
+        margin-top: 5rem;
+    }
+    
+    section.proyect{
+        margin-top: 5rem;
+    }
+  body {
+  background-color: #fff;
+  }
+  h3 {
+    color: #1A8DB4;
+  }
+  
+  h1 {
+    color: #47526b;
+  }
+  section.edu{
+    margin-top: 5rem;
+  }
+  
+  .column {
+    display: grid;
+    gap: 0.5em;
+  }
+  
+  <!--SKILLS-->
+  
+  .skills:not(:last-child){
+    margin-bottom: 30px;
+  }
+  
+  .detalles {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .menu{
+    position: relative;
+    border: 1px solid #47526b;
+    border-radius: 20px;
+  }
+  
+  .menu div{
+    position: relative;
+    width: 0;
+    height: 8px;
+    border-radius: 10px;
+    background-color: #47526b;
+  }
+  
+  #html-menu {
+    animation: html-barra 2s forwards;
+  }
+  @keyframes html-barra {
+    100%{
+        width: 90%;
+    }
+  }
+  
+  #css-menu {
+    animation: css-barra 2s forwards;
+  }
+  @keyframes css-barra {
+    100%{
+        width: 90%;
+    }
+  }
+  
+  #js-menu {
+    animation: js-barra 2s forwards;
+  }
+  @keyframes js-barra {
+    100%{
+        width: 75%;
+    }
+  }
+  
+  #angular-menu {
+    animation: angular-barra 2s forwards;
+  }
+  @keyframes angular-barra {
+    100%{
+        width: 80%;
+    }
+  }
+  
+  #typescript-menu {
+    animation: typescript-barra 2s forwards;
+  }
+  @keyframes typescript-barra {
+    100%{
+        width: 75%;
+    }
+  }
+  
+  #equipo-menu {
+    animation: equipo-barra 2s forwards;
+  }
+  @keyframes equipo-barra {
+    100%{
+        width: 90%;
+    }
+  }
+  
+  
+  #multi-menu {
+    animation: multi-barra 2s forwards;
+  }
+  @keyframes multi-barra {
+    100%{
+        width: 90%;
+    }
+  }
+  
+  #lid-menu{
+    animation: lid-barra 2s forwards;
+  }
+  @keyframes lid-barra {
+    100%{
+        width: 80%;
+    }
+  }
+  
+  #comu-menu{
+    animation: comu-barra 2s forwards;
+  }
+  @keyframes comu-barra {
+    100%{
+        width: 80%;
+    }
+  }
+  
+  
+  #typescript-menu {
+    animation: typescript-barra 2s forwards;
+  }
+  @keyframes typescript-barra {
+    100%{
+        width: 75%;
+    }
+  }
+  
+  
+  body{
+    font-family: cambria;
+  }
+  
+  
+  
+  .login {
+    height: 90vh;
+  }
+  
+  .formulario-login{
+    margin-top: 15rem;
+  }
+  
+  .admin {
+    font-size: 1.5rem;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  
